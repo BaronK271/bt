@@ -15,11 +15,11 @@ Code only, small codebase, no dependencies on any game engine - main goals of th
 ## As unity module
 This repository can be installed as unity module directly from git url. In this way new line should be added to `Packages/manifest.json`:
 ```
-"com.leopotam.ecs": "https://github.com/Leopotam/bt.git",
+"com.leopotam.bt": "https://github.com/Leopotam/bt.git",
 ```
 By default last released version will be used. If you need trunk / developing version then `develop` name of branch should be added after hash:
 ```
-"com.leopotam.ecs": "https://github.com/Leopotam/bt.git#develop",
+"com.leopotam.bt": "https://github.com/Leopotam/bt.git#develop",
 ```
 
 ## As source
