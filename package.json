@@ -1,0 +1,20 @@
+{
+    "name": "com.leopotam.bt",
+    "author": "Leopotam",
+    "displayName": "LeoBt Core",
+    "description": "LeoBt is simple lightweight C# BehaviourTree framework. Code only, small codebase, no dependencies on any game engine - main goals of this framework.",
+    "unity": "2018.3",
+    "version": "2019.7.22-preview",
+    "keywords": [
+        "leobt",
+        "behaviour",
+        "behaviour tree",
+        "ai",
+        "performance"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Leopotam/bt.git"
+    }
+}
